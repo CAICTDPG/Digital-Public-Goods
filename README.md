@@ -74,7 +74,7 @@ Sustainability requires that digital public goods meet the goals of sustainable 
 
 We encourage excellent digital public goods to apply to become CAICT-certified digital public goods and join the CAICT DPG database.
 
-Similar to DPGA, we also have a [three-stage review](https://github.com/DPGAlliance/DPG-Standard#-application-of-the-dpg-standard).
+We also have a [three-stage review mechanism similar to DPGA](https://github.com/DPGAlliance/DPG-Standard#-application-of-the-dpg-standard).
 
 1. First, we use a questionnaire to investigate whether applied digital public goods are consistent with the [UN Sustainable Development Goals](https://sdgs.un.org/goals) and have relevant os licenses. Digital public goods that pass the questionnaire will be nominated.
 
@@ -88,7 +88,7 @@ Note: Digital public goods that fail each link will receive feedback, allowing r
 
 ![image](doc/process.png)
 
-与DPGA类似，我们也有一个[三阶段](https://github.com/DPGAlliance/DPG-Standard#-application-of-the-dpg-standard)的审查机制。
+我们也有一个类似于[DPGA的三阶段审查机制](https://github.com/DPGAlliance/DPG-Standard#-application-of-the-dpg-standard)。
 
 首先，我们通过问卷调查申请的数字公共产品是否与[联合国可持续发展目标](https://sdgs.un.org/goals)一致，并具备相关开源许可证，通过问卷调查的数字公共产品将获得提名。
 
