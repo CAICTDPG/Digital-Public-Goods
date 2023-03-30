@@ -78,7 +78,7 @@ We encourage excellent digital public goods to apply to become CAICT-certified d
 
 Similar to DPGA, we also have a [three-stage review](https://github.com/DPGAlliance/DPG-Standard#-application-of-the-dpg-standard).
 
-1. First, we use a questionnaire to investigate whether applied digital public goods are consistent with the UN Sustainable Development Goals and have relevant os licenses. Digital public goods that pass the questionnaire will be nominated.
+1. First, we use a questionnaire to investigate whether applied digital public goods are consistent with the [UN Sustainable Development Goals](https://sdgs.un.org/goals) and have relevant os licenses. Digital public goods that pass the questionnaire will be nominated.
 
 2. Secondly, we examine whether the nominated digital public goods are open source and can be used through technical review, and the digital public goods that pass the technical review will be candidates.
 
@@ -92,7 +92,7 @@ Note: Digital public goods that fail each link will receive feedback, allowing r
 
 与DPGA类似，我们也有一个[三阶段](https://github.com/DPGAlliance/DPG-Standard#-application-of-the-dpg-standard)的审查机制。
 
-首先，我们通过问卷调查申请的数字公共产品是否与联合国可持续发展目标一致，并具备相关开源许可证，通过问卷调查的数字公共产品将获得提名。
+首先，我们通过问卷调查申请的数字公共产品是否与[联合国可持续发展目标](https://sdgs.un.org/goals)一致，并具备相关开源许可证，通过问卷调查的数字公共产品将获得提名。
 
 其次，我们通过技术审查被提名的数字公共产品是否开源并能够被使用，通过技术审查的数字公共产品将作为候选。
 
