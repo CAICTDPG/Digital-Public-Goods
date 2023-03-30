@@ -10,19 +10,24 @@ The digital public goods database of China Academy of Information and Communicat
 
 CAICT DPG Standard defines the capabilities that digital public goods should have, which are divided into six dimensions, including **non-competitive & non-exclusive, interoperability, security, credibility, scalability, and sustainability**. The digital public goods capability framework is shown in the figure below.
 
+
 **1. Non-compete & non-exclusive**
 Non-competitive & non-exclusive requires that digital public goods do not exclude anyone from consumption in different application scenarios, and at the same time require that there is no conflict of interest between users. It includes open and transparent capabilities, infrastructure improvement capabilities, and user usage capabilities.
+
 **2. Scalability**
 Scalability requires that digital public goods have the ability to add new product functions and modify original functions, including product iteration capabilities, quality management capabilities, demand management capabilities, and branch management capabilities.
+
 **3. Interoperability**
 Interoperability refers to the operation and information-sharing capabilities that digital public goods should have in different computer systems, networks, and other environments, including product compatibility, dependency management capabilities, and completeness of auxiliary documents.
+
 **4. Security**
 Security refers to the security benchmarks that digital public goods should meet, including security assurance capabilities, vulnerability repair capabilities, harmless disposal capabilities, and data extraction capabilities.
+
 **5. Credibility**
 Credibility means that digital public goods ensure the trust of users through the protection of users' privacy, rights and interests, and compliance. It includes the ability to protect independent ownership, privacy protection, and compliance with local laws.
+
 **6. Sustainability**
 Sustainability requires that digital public goods meet the goals of sustainable development, including digital development normative capabilities and sustainable development capabilities.
-![image](https://user-images.githubusercontent.com/128796143/228742883-63cbfb58-0a45-4bb0-b653-1e2dbbdbddd5.png)
 
 
 ## ✅ Application Process 申请流程
