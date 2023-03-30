@@ -72,8 +72,24 @@ Sustainability requires that digital public goods meet the goals of sustainable 
 
 ## ✅ Application Process 申请流程
 
+We encourage excellent digital public goods to apply to become CAICT-certified digital public goods and join the CAICT DPG database.
+
+![image](doc/process)
+
+Similar to DPGA, we also have a three-stage review.
+
+1. First, we use a questionnaire to investigate whether applied digital public goods are consistent with the UN Sustainable Development Goals and have relevant os licenses. Digital public goods that pass the questionnaire will be nominated.
+
+2. Secondly, we examine whether the nominated digital public goods are open source and can be used through technical review, and the digital public goods that pass the technical review will be candidates.
+
+3. Finally, we use the CAICT DPG standard to review whether the candidate digital public goods meet all the content of the standard. The digital public goods that pass the standard review will be released as CAICT-certified DPG. Excellent Cases will be invited to give speeches and demonstrations in the exchange activities related to the digital public goods of CAICT.
+
+Note: Digital public goods that fail each link will receive feedback, allowing revision and resubmission within the specified date.
+
+
 
 ## 📁 Cases 案例汇编
+
 
 
 ## 🎙️ Conference 会议发布 
