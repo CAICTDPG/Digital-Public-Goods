@@ -99,11 +99,18 @@ Note: Digital public goods that fail each link will receive feedback, allowing r
 注：每一环节没有通过的数字公共产品将收到反馈意见，允许在规定日期内修改并重新提交。
 
 
-## 📁 Cases 产品库
+## 📦 Cases 产品库
 
 We have created [CAICT DPG database](https://github.com/CAICTDPG/Digital-Public-Goods/tree/main/Digital%20Public%20Goods%20%20Registration%20Form), where you can learn more about each digital public goods.
 
 我们制作了[中国信通院数字公共产品库](https://github.com/CAICTDPG/Digital-Public-Goods/tree/main/Digital%20Public%20Goods%20%20Registration%20Form)，您可以在案例库中了解有关数字公共产品的详细信息。
+
+
+## 📁 DPG Reports 数字公共产品洞察报告
+
+You can access the CAICT DPG Insights Report through this link.
+
+您可以通过此链接访问中国信通院数字公共产品洞察报告。
 
 
 ## 🎙️ Conference 会议发布 
