@@ -124,8 +124,13 @@ We hope that through our efforts, we can promote the development and implementat
 
 ## ⚖️ Governance 治理
 
+We envision the management of digital public goods database around the CAICT DPG standard in an open, transparent and accessible manner. All of our governance records can be found on this page.
+
+我们希望以开放、透明和可访问的方式围绕中国信通院数字公共产品标准对数字公共产品数据库进行管理。您可以在本网页中找到我们所有的记录。
+
 
 ## 📄 License 许可证
+
 
 
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
