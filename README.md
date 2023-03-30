@@ -99,16 +99,18 @@ Note: Digital public goods that fail each link will receive feedback, allowing r
 注：每一环节没有通过的数字公共产品将收到反馈意见，允许在规定日期内修改并重新提交。
 
 
-## 📁 Cases 案例汇编
+## 📁 Cases 产品库
 
 We have created [CAICT DPG database](https://github.com/CAICTDPG/Digital-Public-Goods/tree/main/Digital%20Public%20Goods%20%20Registration%20Form), where you can learn more about each digital public goods.
 
-我们制作了[中国信通院数字公共产品案例库](https://github.com/CAICTDPG/Digital-Public-Goods/tree/main/Digital%20Public%20Goods%20%20Registration%20Form)，您可以在案例库中了解有关数字公共产品的详细信息。
+我们制作了[中国信通院数字公共产品库](https://github.com/CAICTDPG/Digital-Public-Goods/tree/main/Digital%20Public%20Goods%20%20Registration%20Form)，您可以在案例库中了解有关数字公共产品的详细信息。
 
 
 ## 🎙️ Conference 会议发布 
 
 China Academy of Information and Communications Technology will regularly hold [conferences](conference/21stApr2023_Beijing.md) related to digital public goods and release our contribution in digital public goods. You are welcome to attend our conferences!
+
+![image](conference/conference_photo/21stApr2023_Beijing.png)
 
 中国信通院将定期举办数字公共产品[相关会议](conference/21stApr2023_Beijing.md)，发布数字公共产品成果，欢迎您关注并参加我们的会议！
 
