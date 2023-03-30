@@ -9,7 +9,7 @@ The digital public goods database of China Academy of Information and Communicat
 
 ## 📃 DPG Standard of CAICT 中国信通院数字公共产品标准
 
-CAICT DPG Standard defines the capabilities that digital public goods should have, which are divided into six dimensions, including **non-competitive & non-exclusive, interoperability, security, credibility, scalability, and sustainability**. The digital public goods capability framework is shown in the figure below.
+CAICT DPG Standard defines the capabilities that digital public goods should have, which are divided into six dimensions, including **non-competitive & non-exclusive, interoperability, security, credibility, scalability, and sustainability**. 
 
 
 
@@ -73,8 +73,6 @@ Sustainability requires that digital public goods meet the goals of sustainable 
 ## ✅ Application Process 申请流程
 
 We encourage excellent digital public goods to apply to become CAICT-certified digital public goods and join the CAICT DPG database.
-
-![image](doc/process.png)
 
 Similar to DPGA, we also have a [three-stage review](https://github.com/DPGAlliance/DPG-Standard#-application-of-the-dpg-standard).
 
