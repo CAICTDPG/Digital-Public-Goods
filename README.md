@@ -117,6 +117,10 @@ China Academy of Information and Communications Technology will regularly hold [
 
 ## 😊 Code of Conduct 行为准则
 
+We hope that through our efforts, we can promote the development and implementation of digital public goods in China and the world, build diverse and high-quality communities, and achieve the sustainable development goals of the United Nations. We will publish more codes of conduct in the future.
+
+我们希望通过努力，推动中国乃至世界数字公共产品的发展和落地，建立多元、高质量的社区，实现联合国可持续发展的目标。更多的行为守则我们会在后续发布。
+
 
 ## ⚖️ Governance 治理
 
