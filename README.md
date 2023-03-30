@@ -6,6 +6,9 @@ The digital public goods database of China Academy of Information and Communicat
 
 中国信通院数字公共产品数据库是由中国信通院云计算与大数据研究所可信开源团队建立。数据库收录了符合中国信通院数字公共产品标准的数字公共产品。中国信通院数字公共产品标准认可联合国在[2020年数字合作路线图](https://www.un.org/en/content/digital-cooperation-roadmap/)中设定的数字公共产品定义：*数字公共产品必须是开源的遵守隐私和其他适用法律和最佳实践的软件、开放数据、开放人工智能模型、开放标准和开放内容，不会造成伤害，并有助于实现可持续发展目标 (SDG)。*我们的标准在[数字公共产品联盟](https://digitalpublicgoods.net)的[数字公共产品标准](https://digitalpublicgoods.net/standard/)的基础上，定义为了六个能力维度。
 
+## 📃 DPG Standard of CAICT 中国信通院数字公共产品标准
+
+
 ## ✅ Application process 申请流程
 
 
