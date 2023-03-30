@@ -110,9 +110,9 @@ We have created [CAICT DPG database](https://github.com/CAICTDPG/Digital-Public-
 
 ## 🎙️ Conference 会议发布 
 
-China Academy of Information and Communications Technology will regularly hold conferences related to digital public goods and release our contribution in digital public goods. You are welcome to attend our conferences!
+China Academy of Information and Communications Technology will regularly hold [conferences](conference/21stApr2023_Beijing.md) related to digital public goods and release our contribution in digital public goods. You are welcome to attend our conferences!
 
-中国信通院将定期举办数字公共产品相关会议，发布数字公共产品成果，欢迎您关注并参加我们的会议！
+中国信通院将定期举办数字公共产品[相关会议](conference/21stApr2023_Beijing.md)，发布数字公共产品成果，欢迎您关注并参加我们的会议！
 
 
 ## 😊 Code of Conduct 行为准则
