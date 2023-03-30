@@ -131,6 +131,13 @@ We envision the management of digital public goods database around the CAICT DPG
 
 ## 📄 License 许可证
 
+This repository is primarily content, and it is licensed under a [Creative Commons Attribution ShareAlike 4.0 International License](LICENSE).
+
+此仓库以文本内容为主，根据[Creative Commons Attribution ShareAlike 4.0 International License](LICENSE)获得许可。
+
+[![CC BY-SA 4.0][cc-by-sa-image]](LICENSE)
+
 
 
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
