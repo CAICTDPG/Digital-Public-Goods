@@ -86,6 +86,19 @@ Similar to DPGA, we also have a [three-stage review](https://github.com/DPGAllia
 
 Note: Digital public goods that fail each link will receive feedback, allowing revision and resubmission within the specified date.
 
+我们鼓励优秀的数字公共产品申请成为CAICT认证的数字公共产品，加入CAICT数字公共产品库。
+
+![image](doc/process.png)
+
+与DPGA类似，我们也有一个[三阶段](https://github.com/DPGAlliance/DPG-Standard#-application-of-the-dpg-standard)的审查机制。
+
+首先，我们通过问卷调查申请的数字公共产品是否与联合国可持续发展目标一致，并具备相关开源许可证，通过问卷调查的数字公共产品将获得提名。
+
+其次，我们通过技术审查被提名的数字公共产品是否开源并能够被使用，通过技术审查的数字公共产品将作为候选。
+
+最后，我们通过中国信通院数字公共产品标准审查候选的数字公共产品是否符合标准的所有内容，通过标准审查的数字公共产品将作为中国信通院数字公共产品研究重要成果汇编成册并公开发布，优秀案例将会被邀请在中国信通院数字公共产品相关交流活动中进行宣讲和展示。
+
+注：每一环节没有通过的数字公共产品将收到反馈意见，允许在规定日期内修改并重新提交。
 
 
 ## 📁 Cases 案例汇编
