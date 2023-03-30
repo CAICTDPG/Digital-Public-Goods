@@ -6,6 +6,7 @@ The digital public goods database of China Academy of Information and Communicat
 
 中国信通院数字公共产品数据库是由中国信通院云计算与大数据研究所可信开源团队建立。数据库收录了符合中国信通院数字公共产品标准的数字公共产品。中国信通院数字公共产品标准认可联合国在[2020年数字合作路线图](https://www.un.org/en/content/digital-cooperation-roadmap/)中设定的数字公共产品定义：*数字公共产品必须是开源的遵守隐私和其他适用法律和最佳实践的软件、开放数据、开放人工智能模型、开放标准和开放内容，不会造成伤害，并有助于实现可持续发展目标 (SDG)。*我们的标准在[数字公共产品联盟](https://digitalpublicgoods.net)的[数字公共产品标准](https://digitalpublicgoods.net/standard/)的基础上，定义为了六个能力维度。
 
+
 ## 📃 DPG Standard of CAICT 中国信通院数字公共产品标准
 
 CAICT DPG Standard defines the capabilities that digital public goods should have, which are divided into six dimensions, including **non-competitive & non-exclusive, interoperability, security, credibility, scalability, and sustainability**. The digital public goods capability framework is shown in the figure below.
@@ -36,7 +37,7 @@ Credibility means that digital public goods ensure the trust of users through th
 
 Sustainability requires that digital public goods meet the goals of sustainable development, including digital development normative capabilities and sustainable development capabilities.
 
-More detailed content about the CAICT DPG Standard will be uploaded after release, please continue to focus!
+*More detailed content about the CAICT DPG Standard will be uploaded after release, please continue to focus!*
 
 中国信通院数字公共产品标准对数字公共产品所应具有的能力进行了定义，共分为六个维度，由**非竞争排他性、互操作性、安全性、可信性、可扩展性、可持续性**组成。数字公共产品能力框架如下图所示。
 
@@ -66,8 +67,7 @@ More detailed content about the CAICT DPG Standard will be uploaded after releas
 
 可持续性要求数字公共产品符合可持续发展目标，包括数字发展规范能力与可持续发展能力。
 
-有关CAICT DPG标准更详细的内容，将在发布后上传，欢迎持续关注！
-
+*有关CAICT DPG标准更详细的内容，将在发布后上传，欢迎持续关注！*
 
 
 ## ✅ Application Process 申请流程
