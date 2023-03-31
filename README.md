@@ -108,7 +108,7 @@ We have created [CAICT DPG database](https://github.com/CAICTDPG/Digital-Public-
 
 ## 📁 DPG Reports 数字公共产品洞察报告
 
-You can access the CAICT DPG Insights Report through this link. We will upload the report in the future
+You can access the CAICT DPG Insights Report through this link. We will upload the report in the future.
 
 您可以通过此链接访问中国信通院数字公共产品洞察报告。报告会在后续及时分布与更新，欢迎及时关注。
 
