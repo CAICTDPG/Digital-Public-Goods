@@ -41,7 +41,7 @@ Sustainability requires that digital public goods meet the goals of sustainable 
 
 中国信通院数字公共产品标准对数字公共产品所应具有的能力进行了定义，共分为六个维度，由**非竞争排他性、互操作性、安全性、可信性、可扩展性、可持续性**组成。数字公共产品能力框架如下图所示。
 
-
+![image](doc/framework_of_standard.png)
 
 **1.	非竞争排他性**
 
