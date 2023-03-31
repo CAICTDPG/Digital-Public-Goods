@@ -50,7 +50,7 @@ Sustainability requires that digital public goods meet the goals of sustainable 
 
 <p align="center">
   <a href="doc/framework_of_standard.png">
-    <img src="doc/framework_of_standard.png" width="300px" height="200px">
+    <img src="doc/framework_of_standard.png" width="600px" height="400px">
   </a>
 </p>
 
