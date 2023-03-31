@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="http://caicttrustedopensource.org.cn/">
-    <img src="doc/trusted.png" width="150px" height="150px">
+    <img src="doc/trusted.png" width="180px" height="200px">
   </a>
 </p>
 
