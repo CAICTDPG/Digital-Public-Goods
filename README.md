@@ -88,7 +88,7 @@ Note: Digital public goods that fail each link will receive feedback, allowing r
 
 ![image](doc/process.png)
 
-我们也有一个类似于[DPGA的三阶段审查机制](https://github.com/DPGAlliance/DPG-Standard#-application-of-the-dpg-standard)。
+中国信通院数字公共产品审查流程是一个类似于[DPGA的三阶段审查机制](https://github.com/DPGAlliance/DPG-Standard#-application-of-the-dpg-standard)。
 
 首先，我们通过问卷调查申请的数字公共产品是否与[联合国可持续发展目标](https://sdgs.un.org/goals)一致，并具备相关开源许可证，通过问卷调查的数字公共产品将获得提名。
 
