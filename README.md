@@ -136,7 +136,7 @@ China Academy of Information and Communications Technology will regularly hold [
 
 ## 😊 Code of Conduct 行为准则
 
-We hope that through our efforts, we can promote the development and implementation of digital public goods in China and the world, build diverse and high-quality communities, and achieve the sustainable development goals of the United Nations. Our Code of Conduct is adapted from [Contributor Covenant version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md). You can read the [English](CODE_OF_CONDUCT.md) and Chinese(CODE_OF_CONDUCT_zh.md) version and abide by it.
+We hope that through our efforts, we can promote the development and implementation of digital public goods in China and the world, build diverse and high-quality communities, and achieve the sustainable development goals of the United Nations. Our Code of Conduct is adapted from [Contributor Covenant version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md). You can read the [English](CODE_OF_CONDUCT.md) and [Chinese](CODE_OF_CONDUCT_zh.md) version and abide by it.
 
 我们希望通过努力，推动中国乃至世界数字公共产品的发展和落地，建立多元、高质量的社区，实现联合国可持续发展的目标。我们的行为准则改编自[Contributor Covenant 2.1](https://www.contributor-covenant.org/zh-cn/version/2/1/code_of_conduct/)版。您可以阅读我们行为准则的[英文版本](CODE_OF_CONDUCT.md)与[中文版本](CODE_OF_CONDUCT_zh.md)并遵守它。
 
