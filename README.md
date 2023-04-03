@@ -1,4 +1,5 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]](LICENSE)
+[![Contributor Covenant][code-of-conduct-shield]](CODE_OF_CONDUCT.md)
 
 <p align="center">
   <a href="http://caicttrustedopensource.org.cn/">
@@ -135,10 +136,9 @@ China Academy of Information and Communications Technology will regularly hold [
 
 ## 😊 Code of Conduct 行为准则
 
-We hope that through our efforts, we can promote the development and implementation of digital public goods in China and the world, build diverse and high-quality communities, and achieve the sustainable development goals of the United Nations. We will publish more codes of conduct in the future.
+We hope that through our efforts, we can promote the development and implementation of digital public goods in China and the world, build diverse and high-quality communities, and achieve the sustainable development goals of the United Nations. Our Code of Conduct is adapted from [Contributor Covenant version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md). You can read the [English](CODE_OF_CONDUCT.md) and Chinese(CODE_OF_CONDUCT_zh.md) version and abide by it.
 
-我们希望通过努力，推动中国乃至世界数字公共产品的发展和落地，建立多元、高质量的社区，实现联合国可持续发展的目标。更多的行为守则我们会在后续发布。
-
+我们希望通过努力，推动中国乃至世界数字公共产品的发展和落地，建立多元、高质量的社区，实现联合国可持续发展的目标。我们的行为准则改编自[Contributor Covenant 2.1](https://www.contributor-covenant.org/zh-cn/version/2/1/code_of_conduct/)版。您可以阅读我们行为准则的[英文版本](CODE_OF_CONDUCT.md)与[中文版本](CODE_OF_CONDUCT_zh.md)并遵守它。
 
 ## ⚖️ Governance 治理
 
@@ -159,3 +159,4 @@ This repository is primarily content, and it is licensed under a [Creative Commo
 
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[code-of-conduct-shield]: https://img.shields.io/badge/Contributor%20Covenant-v2.1%20adopted-ff69b4.svg
