@@ -39,8 +39,7 @@
 ## 监督
 
 
-可以通过发送电子邮件至[zhangyiyang@caict.ac.cn](mailto:zhangyiyang@caict.ac.cn)或联系[贾宇尘](https://github.com/ZhemoKing)
-报告辱骂、骚扰或其他不可接受的行为。
+可以通过发送电子邮件至[zhangyiyang@caict.ac.cn](mailto:zhangyiyang@caict.ac.cn)或联系[贾宇尘](https://github.com/ZhemoKing)报告辱骂、骚扰或其他不可接受的行为。
 
 所有投诉都将得到及时和公平的审查和调查。
 
