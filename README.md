@@ -7,8 +7,7 @@
   </a>
 </p>
 
-
-# Digital Public Goods 数字公共产品
+<h1 align="center">Digital Public Goods 数字公共产品</h1>
 
 The digital public goods database of China Academy of Information and Communications Technology(CAICT) is established by the trusted open source team of the cloud computing and big data research institute of CAICT. The database includes digital public goods that meet the DPG standards of CAICT. CAICT’s DPG Standard follows the definition of digital public goods set by the UN Secretary-General in the [2020 Roadmap for Digital Cooperation](https://www.un.org/en/content/digital-cooperation-roadmap/): *digital public goods must be open source software, open data, open AI models, open standards, and open content that adhere to privacy and other applicable laws and best practices, do no harm, and help attain the Sustainable Development Goals (SDGs).* Our standard is based on the [DPG standard](https://digitalpublicgoods.net/standard/) of the [Digital Public Goods Alliance](https://digitalpublicgoods.net) (DPGA) and defines six capability dimensions.
 
