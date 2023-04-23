@@ -128,8 +128,6 @@ You can access the CAICT DPG Insights Report through this link. We will upload t
 
 China Academy of Information and Communications Technology will regularly hold [conferences](conference/21stApr2023_Beijing.md) related to digital public goods and release our contribution in digital public goods. You are welcome to attend our conferences!
 
-![image](conference/conference_photo/21stApr2023_Beijing.png)
-
 中国信通院将定期举办数字公共产品[相关会议](conference/21stApr2023_Beijing.md)，发布数字公共产品成果，欢迎您关注并参加我们的会议！
 
 
